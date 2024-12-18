@@ -1,0 +1,30 @@
+:root {
+    /* Fondo general y secciones */
+    --color-f-p: #F9F9F9; /* Fondo principal */
+    --color-f-s: #F6F6F6; /* Fondo secundario */
+    --color-f-t: #E3F6F5; /* Fondo de tarjetas */
+    --color-f-r: #3AAF9E; /* Fondo para resaltados */
+    --color-f-c: #F4F8F7; /* Fondo para formulario */
+
+    /* Colores de texto */
+    --text-t-e: #272343; /* Títulos y encabezados */
+    --text-t-p: #2D334A; /* Párrafos y contenido */
+    --text-t-b: #272343; /* Texto en botones */
+    --text-t-i: #E3F6F5; /* Texto de menos importancia */
+    --text-t-n: #3AAF9E; /* color de texto notificacción afirmacion */
+    --text-t-a: #E94C1C; /* color de texto notificación negative */
+
+    /* Botones */
+    --button-b-p: #F9D305; /* Fondo del botón principal para menu*/
+    --button-b-b: #3AAF9E; /* Texto del botón principal de card */
+    --button-b-s: #F4F8F7; /* color de texto del botón dos texto */
+    --button-b-n: #3AAF9E; /* Texto del botón secundario de card */
+    --button-b-t: #272343; /* color de texto del botón uno texto */
+
+
+    /* Separadores  */
+    --border-c-e: #272343; /* Bordes de campos de entrada */
+
+
+    
+}

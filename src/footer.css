@@ -1,0 +1,39 @@
+@import url(Colore.css);
+@import url(text.css);
+
+footer{
+    font-family: var(--texto-detalles);
+    display: flex;
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    background: var(--color-f-r);
+    
+}
+.logo-cibertec{
+    width: 300px;
+   
+}
+
+.separador{
+    width: 3px;
+    height: 200px;
+    margin: 0px 20px;
+    background: var(--border-c-e);
+
+}
+
+footer ul {
+    list-style: none;
+
+}
+footer h3{
+    font-size: 15pt;
+}
+footer ul li{
+        
+    margin: 5px;
+    font-size: 12pt;
+    color: var(--color-titulo);
+}

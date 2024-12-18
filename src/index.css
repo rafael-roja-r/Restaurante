@@ -1,0 +1,15 @@
+@import url(Colore.css);
+
+
+body{
+  width: 100%; /* 100% del ancho de la ventana */
+  height: 100vh; /* 100% de la altura de la ventana */
+  background-image: url('assets/img/portada/Banners.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
